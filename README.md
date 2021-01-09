@@ -1,2 +1,0 @@
-# tbbdeploy
-Deployment Repository
